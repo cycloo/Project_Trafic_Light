@@ -2,15 +2,6 @@
 
 ## System Traffic Light With YOLO V8 X
 
-### Table of Contents
-- [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Configuration]([config_dataset.yaml](https://github.com/cycloo/Project_Trafic_Light/blob/main/config_dataset.yaml))
-- [Contributing](#contributing)
-- [License](#license)
-
 ### Introduction
 This project implements a traffic light control system using YOLO V8 X for image recognition. The goal is to optimize traffic flow at intersections by adjusting the traffic light duration based on real-time vehicle detection.
 
