@@ -7,7 +7,7 @@
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Configuration](#config_dataset.yaml)
+- [Configuration]([config_dataset.yaml](https://github.com/cycloo/Project_Trafic_Light/blob/main/config_dataset.yaml))
 - [Contributing](#contributing)
 - [License](#license)
 
