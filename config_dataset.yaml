@@ -1,0 +1,16 @@
+traffic_light:
+  yellow_duration: 2 # Duration of the yellow light in seconds
+
+yolo:
+  model_path: 'weights/yolov8x.pt' # Path to YOLO V8 X weights
+  confidence_threshold: 0.5 # Confidence threshold for vehicle detection
+
+camera:
+  source: 0 # Camera source (0 for default camera)
+
+train: C:\Users\rezad\Desktop\DATASET\DATASET_80_10_10\images\train
+val: C:\Users\rezad\Desktop\DATASET\DATASET_80_10_10\images\val
+test: C:\Users\rezad\Desktop\DATASET\DATASET_80_10_10\images\test
+
+nc: 4
+names: ["bus", "car", "motor", "truck"]
