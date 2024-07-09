@@ -7,7 +7,7 @@
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Configuration](#configuration)
+- [Configuration](#config_dataset.yaml)
 - [Contributing](#contributing)
 - [License](#license)
 
